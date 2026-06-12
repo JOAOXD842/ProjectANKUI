@@ -20,7 +20,7 @@ local redzlib = {
 }),
 ["Color Hub 2"] = Color3.fromRGB(0, 0, 0),        -- fundo totalmente preto
 ["Color Stroke"] = Color3.fromRGB(255, 165, 0),      -- borda vermelho mais forte
-["Color Theme"] = Color3.fromRGB(255, 165, 0),      -- destaque vermelho vivo
+["Color Theme"] = Color3.fromRGB(255, 255, 255),      -- destaque vermelho vivo
 ["Color Text"] = Color3.fromRGB(255, 255, 255),   -- texto branco
 ["Color Dark Text"] = Color3.fromRGB(255, 255, 255)   -- texto secundário em vermelho suave
 		},
