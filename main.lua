@@ -22,7 +22,7 @@ local redzlib = {
 ["Color Stroke"] = Color3.fromRGB(255, 165, 0),      -- borda vermelho mais forte
 ["Color Theme"] = Color3.fromRGB(255, 165, 0),      -- destaque vermelho vivo
 ["Color Text"] = Color3.fromRGB(255, 255, 255),   -- texto branco
-["Color Dark Text"] = Color3.fromRGB(255, 165, 0)   -- texto secundário em vermelho suave
+["Color Dark Text"] = Color3.fromRGB(0, 0, 0)   -- texto secundário em vermelho suave
 		},
 		Dark = {
 			["Color Hub 1"] = ColorSequence.new({
